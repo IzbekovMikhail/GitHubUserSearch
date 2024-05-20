@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">GitHubUserSearch</string>
+
+    <string name="button">Поиск</string>
+    <string name="editTextHint">Введите логин</string>
 </resources>
